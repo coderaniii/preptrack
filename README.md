@@ -1,16 +1,26 @@
 # PrepTrack
 
-PrepTrack is a simple web app designed to help students track their coding preparation.
+PrepTrack is a simple web platform designed to help students organize and track their coding preparation for placements.
 
-## Features
-- DSA learning roadmap
-- Progress tracking
-- Structured learning resources
-- Clean UI
+## 🚀 Features
 
-## Tech Stack
-- HTML
-- CSS
+* Track DSA learning progress
+* Structured learning paths
+* Clean and simple UI
+* Organized coding resources
 
-## Live Demo
+## 🛠 Tech Stack
+
+* HTML
+* CSS
+
+## 🌐 Live Demo
+
 https://coderaniii.github.io/preptrack/
+
+## 📌 Future Improvements
+
+* Progress tracker
+* Dashboard with analytics
+* Responsive design
+* User login system
