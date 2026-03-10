@@ -1,10 +1,10 @@
-/* Remove default browser spacing */
+
 body {
     margin: 0;
     font-family: Arial, sans-serif;
 }
 
-/* Navbar styling */
+
 nav {
     display: flex;
     justify-content: space-between;
@@ -37,7 +37,7 @@ nav a:hover {
     color: #38bdf8;
 }
 
-/* Hero section */
+
 .hero {
     text-align: center;
     padding: 120px 20px;
@@ -72,7 +72,7 @@ nav a:hover {
     background-color: #e2e8f0;
 }
 
-/* Courses section */
+
 .courses {
     padding: 80px 20px;
     text-align: center;
@@ -84,7 +84,7 @@ nav a:hover {
     font-size: 32px;
 }
 
-/* Grid layout */
+
 .course-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -93,7 +93,7 @@ nav a:hover {
     margin: 40px auto;
 }
 
-/* Course card */
+
 .course-card {
     background: white;
     padding: 25px;
@@ -112,7 +112,7 @@ nav a:hover {
     margin-bottom: 10px;
 }
 
-/* Container layout */
+
 .container {
     max-width: 1100px;
     margin: auto;
