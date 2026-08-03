@@ -7,7 +7,7 @@ PrepTrack is a simple web platform designed to help students organize and track 
 * Track DSA learning progress
 * Structured learning paths
 * Clean and simple UI
-* Organized coding resources
+* Organized coding resources for better access
 
 ## 🛠 Tech Stack
 
