@@ -25,4 +25,4 @@ https://coderaniii.github.io/preptrack/
 * Responsive design
 * User login system
 
-This project is under work.
+This project is a Work in Progress (WIP) and features are incomplete.
